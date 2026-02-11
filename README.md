@@ -66,3 +66,7 @@ Para prevenir este tipo de ataques en una red profesional, se deben implementar 
 * Limitar la cantidad de direcciones MAC permitidas por puerto físico.
 
 Si el switch detecta más de (por ejemplo) 2 MACs en el puerto del atacante, el puerto se desactiva automáticamente (shutdown).
+
+# VIDEO
+
+https://youtu.be/5vQs_07WC_M
